@@ -51,7 +51,7 @@ const Octen = () => {
 
 
             <div className="w-full sm:w-3/4 md:w-7/12 lg:w-1/2 mx-auto mt-12 bg-white border rounded-lg shadow-lg">
-                <div className="px-4 lg:px-6 border-b"><h1 className="py-2 text-center text-2xl font-bold text-gray-400">CMES Octen Use Calculator</h1></div>
+                <div className="px-4 lg:px-6 border-b"><h1 className="py-2 text-center text-2xl font-bold text-gray-400">CMES Octen Use Calculator-1</h1></div>
 
                 <h3 className="py-1 text-lg text-center font-semibold" style={resultColor}>{result}</h3>
 
